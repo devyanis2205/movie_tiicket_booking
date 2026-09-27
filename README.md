@@ -80,7 +80,7 @@ No SQL or database is used in this project.
 
 ---
 
-[Click here to get full code](https://github.com/gaikwadshweta263-commits/Online-Shopping-System/blob/62b325775b604a4961a1f65f8db188f43ff39795/onlineshopsys_database.sql)
+[Click here to get full code](https://github.com/devyanis2205/movie_tiicket_booking/blob/5eba5574aa687cba02e2e1e544e6fbe79b8ee8f3/movie_ticket_booking_project.sql)
 
 ---
 
